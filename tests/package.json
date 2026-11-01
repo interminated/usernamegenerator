@@ -1,0 +1,10 @@
+{
+  "name": "username-generator-game",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Многопользовательская Telegram Mini App про коллекционные игровые юзернеймы",
+  "type": "commonjs",
+  "engines": {"node": ">=22.13.0"},
+  "scripts": {"start": "node server.js", "test": "node --test tests/*.test.js"},
+  "license": "UNLICENSED"
+}
